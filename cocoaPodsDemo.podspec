@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.ios.deployment_target = '8.0'
   s.source       = { :git => 'https://github.com/airfight/cocoaPodsDemo.git', :tag => s.version }
-  s.source_files = "cocoaPodsDemo/GYBaseNavViewController.swift"
+  s.source_files = 'GYBaseNavViewController.swift'
   s.requires_arc = true
 
 end
