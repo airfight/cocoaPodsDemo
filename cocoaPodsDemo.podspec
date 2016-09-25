@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'cocoaPodsDemo'
-  s.version      = 'version1.0'
+  s.version      = '1.0.0'
   s.summary      = 'Draw Menu'
   s.homepage     = 'https://github.com/airfight/cocoaPodsDemo'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
